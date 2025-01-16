@@ -1,7 +1,0 @@
-/home/me/perso/pk_secp256k1_generator/target/debug/deps/libbyteorder-42f5e31afd6b9d00.rmeta: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs
-
-/home/me/perso/pk_secp256k1_generator/target/debug/deps/libbyteorder-42f5e31afd6b9d00.rlib: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs
-
-/home/me/perso/pk_secp256k1_generator/target/debug/deps/byteorder-42f5e31afd6b9d00.d: /home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs
-
-/home/me/.cargo/registry/src/index.crates.io-6f17d22bba15001f/byteorder-1.5.0/src/lib.rs:
